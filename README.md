@@ -1,3 +1,5 @@
 # islani.github.io
 # under construction :) old school
-this is going to be a static webiste with some info about my past and ongoing research
+<img src="https://github.com/islani/islani.github.io/blob/main/profile_pic.jpg" width="500" height="500"> <br>
+this is going to be a static webiste with some info about my past and ongoing research and some random images of me <br>
+
