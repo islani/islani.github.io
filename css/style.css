@@ -835,4 +835,16 @@ fieldset {
     background-color: #dddddd;
   }
 
+@media only screen and (max-width: 768px) {
+    table.table-responsive tr {
+        display: block;
+        border: none;
+    }
 
+    table.table-responsive tr td {
+     display: block;
+     text-align: center;
+     border: none;
+    }
+    
+}
