@@ -835,7 +835,7 @@ fieldset {
     background-color: #dddddd;
   }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1200px) {
     table.table-responsive tr {
         display: block;
         border: none;
