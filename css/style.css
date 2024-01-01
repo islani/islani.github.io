@@ -846,5 +846,9 @@ fieldset {
      text-align: center;
      border: none;
     }
+
+    header {
+        height: 100px;
+    }
     
 }
