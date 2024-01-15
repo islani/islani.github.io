@@ -810,6 +810,11 @@ fieldset {
     color: #959595;
 }
 
+#video_blog {
+    background: rgb(41, 41, 41);
+    color: #959595;
+}
+
 #education {
     
     background: #ffffff
@@ -852,3 +857,15 @@ fieldset {
     }
     
 }
+
+.IA_flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background: rgb(41, 41, 41);
+    padding: 0%;
+  }
+  
+.IA_flex-container > div {
+    width: "33%";
+    margin: 10px;
+  }
